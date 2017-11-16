@@ -1,0 +1,11 @@
+{
+  "name": "2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DrawRectangle.js",
+  "scripts": {
+    "dev": "fis3 release -d ./dev -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
